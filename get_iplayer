@@ -7974,7 +7974,6 @@ sub channels_schedule {
 			'p00fzl8v' => 'BBC Radio 2', # radio2/programmes/schedules
 			'p00fzl8t' => 'BBC Radio 3', # radio3/programmes/schedules
 			'p00fzl7j' => 'BBC Radio 4', # radio4/programmes/schedules/fm
-			'p00fzl7k' => 'BBC Radio 4', # radio4/programmes/schedules/lw
 			'p00fzl7l' => 'BBC Radio 4 Extra', # radio4extra/programmes/schedules
 			'p02zbmb3' => 'BBC World Service', # worldserviceradio/programmes/schedules/uk
 			'p02jf21y' => 'CBeebies Radio', # cbeebies_radio/programmes/schedules
